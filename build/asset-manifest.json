@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/.github.io/personal-website/static/css/main.06677a17.chunk.css",
+    "main.js": "/.github.io/personal-website/static/js/main.4fc0b950.chunk.js",
+    "main.js.map": "/.github.io/personal-website/static/js/main.4fc0b950.chunk.js.map",
+    "runtime-main.js": "/.github.io/personal-website/static/js/runtime-main.900ca5df.js",
+    "runtime-main.js.map": "/.github.io/personal-website/static/js/runtime-main.900ca5df.js.map",
+    "static/js/2.fa73a1a5.chunk.js": "/.github.io/personal-website/static/js/2.fa73a1a5.chunk.js",
+    "static/js/2.fa73a1a5.chunk.js.map": "/.github.io/personal-website/static/js/2.fa73a1a5.chunk.js.map",
+    "index.html": "/.github.io/personal-website/index.html",
+    "static/css/main.06677a17.chunk.css.map": "/.github.io/personal-website/static/css/main.06677a17.chunk.css.map",
+    "static/js/2.fa73a1a5.chunk.js.LICENSE.txt": "/.github.io/personal-website/static/js/2.fa73a1a5.chunk.js.LICENSE.txt",
+    "static/media/akash_dubey.812e27e3.pdf": "/.github.io/personal-website/static/media/akash_dubey.812e27e3.pdf",
+    "static/media/avatar1.84437258.jpg": "/.github.io/personal-website/static/media/avatar1.84437258.jpg",
+    "static/media/me.8928fd5e.png": "/.github.io/personal-website/static/media/me.8928fd5e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.900ca5df.js",
+    "static/js/2.fa73a1a5.chunk.js",
+    "static/css/main.06677a17.chunk.css",
+    "static/js/main.4fc0b950.chunk.js"
+  ]
+}
